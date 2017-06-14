@@ -11,8 +11,7 @@ open_google(browser)
 
 print "Enter the login: "
 login = $stdin.gets.chomp
-
-password = STDIN.getpass("\nEnter password: ")
+password = $stdin.getpass("\nEnter password: ")
 
 login_MICB(browser, login, password)
 
