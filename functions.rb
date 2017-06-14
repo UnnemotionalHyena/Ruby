@@ -27,46 +27,31 @@ end
 
 def extract_accounts_data(browser)
   account_list = []
-  i = -1
 
   browser.div(class: 'contract status-active').wait_until_present
   account_data = browser.divs(class: "contract status-active")
 
   account_data.each do |div|
-    i += 1
     string = div.text.split(" ")
-    account_list.push(Account.new('undefine', 'undefine', 0, 'undefine'))
-
-    account_list[i].name = string[1]
-    account_list[i].currency = string[0]
-    account_list[i].balance = string[3]
-    account_list[i].nature = 'Account'
+    account_list << Account.new(string[1], string[0], string[3], 'Account')
   end
 
-  exctract_card_data(browser, i, account_list)
+  exctract_card_data(browser, account_list)
   return account_list
 end
 
-def exctract_card_data(browser, nr_accounts, account_list)
+def exctract_card_data(browser, account_list)
   browser.div(class: 'contract-cards ').wait_until_present
 
   card_name = browser.divs(class: 'contract-cards ')
 
   card_name.each do |div|
 
-    div.wait_until_present
-
-    nr_accounts += 1
-    account_list.push(Account.new('undefine', 'undefine', 0, 'undefine'))
-    div.click
+    div.wait_until_present.click
 
     card_data = browser.div(class: 'content-header editable ').wait_until_present.text.split(" ")
 
-    account_list[nr_accounts].name = card_data[1]
-    account_list[nr_accounts].currency = card_data[3]
-    account_list[nr_accounts].balance = card_data[2]
-    account_list[nr_accounts].nature = 'Card'
-
+    account_list << Account.new(card_data[1], card_data[3], card_data[2], 'Card')
     browser.back
   end
 end
@@ -104,8 +89,7 @@ def extract_transactions (browser, account_data, nr_months)
 
   account_data.each do |account|
     transactions = []
-    date_1 = ''
-    i = 0
+    date1 = ''
     bool_tr = true
 
     browser.div(class: 'filter filter_contract').wait_until_present.click
@@ -119,7 +103,7 @@ def extract_transactions (browser, account_data, nr_months)
     end
 
     if bool_tr == false
-      transactions.push(Transactions.new('undefine', 'undefine', 0))
+      transactions << Transactions.new('undefine', 'undefine', 0)
     else
       browser.div(class: 'day-operations').wait_until_present
 
@@ -131,17 +115,12 @@ def extract_transactions (browser, account_data, nr_months)
 
           div.lis.each do |li|
             li = li.text.split(/\n/)
-
-            transactions.push(Transactions.new('undefine', 'undefine', 0))
-            transactions[i].date = "#{date2} #{li[0]}"
-            transactions[i].description = li[1]
-            transactions[i].amount = li[2]
-            i +=1
+            transactions << Transactions.new("#{date2} #{li[0]}", li[1], li[2])
           end
         end
       end
     end
-    accounts_transactions.push(transactions)
+    accounts_transactions << transactions
   end
   return accounts_transactions
 end
