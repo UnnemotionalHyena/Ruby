@@ -1,0 +1,331 @@
+{
+  "accounts": [
+    {
+      "name": "2259A3648041",
+      "currency": "MDL",
+      "balance": "1.16",
+      "nature": "Account",
+      "transactions": [
+        {
+          "date": "",
+          "description": "",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "2259A36117121",
+      "currency": "MDL",
+      "balance": "29.80",
+      "nature": "Account",
+      "transactions": [
+        {
+          "date": "June 2017 7 Wed 10:29",
+          "description": "Transfer to another Moldindconbank's card 557484******4202",
+          "amount": "181.60 MDL"
+        },
+        {
+          "date": "June 2017 6 Tue 17:17",
+          "description": "ATM Cash-In ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+200.00 MDL"
+        },
+        {
+          "date": "June 2017 1 Thu 00:00",
+          "description": "Credit Account: Client Account --> Bank Account",
+          "amount": "25.00 MDL"
+        },
+        {
+          "date": "June 2017 1 Thu 00:00",
+          "description": "uFR1 -> Cl Deposit (Write-off state)",
+          "amount": "+25.00 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 20:25",
+          "description": "RF: Taxa lunara deservire cont",
+          "amount": "25.00 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 12:10",
+          "description": "ATM ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 10:37",
+          "description": "Retail \"FARMACIA NR.280\" f.Mosc Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "4.04 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "18.27 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 00:00",
+          "description": "Cl Deposit Int Due Special",
+          "amount": "+1.48 MDL"
+        },
+        {
+          "date": "May 2017 29 Mon 17:00",
+          "description": "ATM Cash-In ATM208 Toamna de Aur-1 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+100.00 MDL"
+        },
+        {
+          "date": "May 2017 27 Sat 16:29",
+          "description": "ATM ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 26 Fri 12:51",
+          "description": "ATM Cash-In ATM208 Toamna de Aur-1 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+50.00 MDL"
+        },
+        {
+          "date": "May 2017 25 Thu 16:31",
+          "description": "Retail \"LIN 5\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "9.16 MDL"
+        },
+        {
+          "date": "May 2017 24 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "147.97 MDL"
+        },
+        {
+          "date": "May 2017 24 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "18.33 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:24",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+58.70 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:24",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+29.35 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:08",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+29.35 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 08:20",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "36.67 MDL"
+        },
+        {
+          "date": "May 2017 21 Sun 17:06",
+          "description": "Retail PMR*DIGISELLER MOSCOW Russia",
+          "amount": "124.65 MDL"
+        },
+        {
+          "date": "May 2017 21 Sun 15:25",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+182.00 MDL"
+        },
+        {
+          "date": "May 2017 20 Sat 16:41",
+          "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 19 Fri 09:58",
+          "description": "Retail \"NR.1\" Supermarket A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "112.74 MDL"
+        },
+        {
+          "date": "May 2017 18 Thu 09:16",
+          "description": "Retail RIUL VECHI ORANGE CHISINAU Moldova, Rep. Of",
+          "amount": "21.00 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 20:08",
+          "description": "Info Bon (Termoelectrica)",
+          "amount": "647.61 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 18:50",
+          "description": "ATM Cash-In ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+650.00 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 14:21",
+          "description": "Retail RIUL VECHI ORANGE CHISINAU Moldova, Rep. Of",
+          "amount": "21.00 MDL"
+        },
+        {
+          "date": "May 2017 16 Tue 20:09",
+          "description": "Retail PMR*PLATI MOSCOW Russia",
+          "amount": "27.11 MDL"
+        },
+        {
+          "date": "May 2017 16 Tue 10:10",
+          "description": "Retail MAIB ROGOB CREANGA Ciorescu Moldova, Rep. Of",
+          "amount": "34.10 MDL"
+        },
+        {
+          "date": "May 2017 16 Tue 04:13",
+          "description": "Alim. cont de card, promo cashback",
+          "amount": "+101.40 MDL"
+        },
+        {
+          "date": "May 2017 15 Mon 13:38",
+          "description": "Retail \"NR.1\" Supermarket H Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "105.30 MDL"
+        }
+      ]
+    },
+    {
+      "name": "417751******0042",
+      "currency": "MDL",
+      "balance": "1.16",
+      "nature": "Card",
+      "transactions": [
+        {
+          "date": "",
+          "description": "",
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "name": "557802******8008",
+      "currency": "MDL",
+      "balance": "29.80",
+      "nature": "Card",
+      "transactions": [
+        {
+          "date": "June 2017 7 Wed 10:29",
+          "description": "Transfer to another Moldindconbank's card 557484******4202",
+          "amount": "181.60 MDL"
+        },
+        {
+          "date": "June 2017 6 Tue 17:17",
+          "description": "ATM Cash-In ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+200.00 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 12:10",
+          "description": "ATM ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 10:37",
+          "description": "Retail \"FARMACIA NR.280\" f.Mosc Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "4.04 MDL"
+        },
+        {
+          "date": "May 2017 31 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "18.27 MDL"
+        },
+        {
+          "date": "May 2017 29 Mon 17:00",
+          "description": "ATM Cash-In ATM208 Toamna de Aur-1 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+100.00 MDL"
+        },
+        {
+          "date": "May 2017 27 Sat 16:29",
+          "description": "ATM ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 26 Fri 12:51",
+          "description": "ATM Cash-In ATM208 Toamna de Aur-1 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+50.00 MDL"
+        },
+        {
+          "date": "May 2017 25 Thu 16:31",
+          "description": "Retail \"LIN 5\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "9.16 MDL"
+        },
+        {
+          "date": "May 2017 24 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "18.33 MDL"
+        },
+        {
+          "date": "May 2017 24 Wed 00:00",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "147.97 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:24",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+58.70 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:24",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+29.35 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 10:08",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+29.35 MDL"
+        },
+        {
+          "date": "May 2017 23 Tue 08:20",
+          "description": "Retail ITUNES.COM/BILL ITUNES.COM Ireland",
+          "amount": "36.67 MDL"
+        },
+        {
+          "date": "May 2017 21 Sun 17:06",
+          "description": "Retail PMR*DIGISELLER MOSCOW Russia",
+          "amount": "124.65 MDL"
+        },
+        {
+          "date": "May 2017 21 Sun 15:25",
+          "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+          "amount": "+182.00 MDL"
+        },
+        {
+          "date": "May 2017 20 Sat 16:41",
+          "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "50.90 MDL"
+        },
+        {
+          "date": "May 2017 19 Fri 09:58",
+          "description": "Retail \"NR.1\" Supermarket A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "112.74 MDL"
+        },
+        {
+          "date": "May 2017 18 Thu 09:16",
+          "description": "Retail RIUL VECHI ORANGE CHISINAU Moldova, Rep. Of",
+          "amount": "21.00 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 20:08",
+          "description": "Info Bon (Termoelectrica)",
+          "amount": "647.61 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 18:50",
+          "description": "ATM Cash-In ATM187 Filiala \"Moscova\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "+650.00 MDL"
+        },
+        {
+          "date": "May 2017 17 Wed 14:21",
+          "description": "Retail RIUL VECHI ORANGE CHISINAU Moldova, Rep. Of",
+          "amount": "21.00 MDL"
+        },
+        {
+          "date": "May 2017 16 Tue 20:09",
+          "description": "Retail PMR*PLATI MOSCOW Russia",
+          "amount": "27.11 MDL"
+        },
+        {
+          "date": "May 2017 16 Tue 10:10",
+          "description": "Retail MAIB ROGOB CREANGA Ciorescu Moldova, Rep. Of",
+          "amount": "34.10 MDL"
+        },
+        {
+          "date": "May 2017 15 Mon 13:38",
+          "description": "Retail \"NR.1\" Supermarket H Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+          "amount": "105.30 MDL"
+        }
+      ]
+    }
+  ]
+}
